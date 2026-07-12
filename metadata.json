@@ -1,0 +1,6 @@
+{
+  "name": "O Parque dos Pets",
+  "description": "Um jogo divertido de encontrar e colecionar 7 gatos e 9 cachorros únicos no parque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
